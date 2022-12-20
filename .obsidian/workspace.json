@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "4e24179efddbb984",
+    "type": "split",
+    "children": [
+      {
+        "id": "66a24ab00a17202e",
+        "type": "tabs",
+        "dimension": 56.84019370460048,
+        "children": [
+          {
+            "id": "88aefac3421cede1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 3 Season 1/CS 311 Discrete Mathematics/Summary/Predicates and Quantifier.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5726fc6111f60e1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 3 Season 1/CS 311 Discrete Mathematics/Summary/Propositions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2a3048478daf72af",
+        "type": "tabs",
+        "dimension": 43.15980629539952,
+        "children": [
+          {
+            "id": "4e27de7dced4ba07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 3 Season 1/CS 311 Discrete Mathematics/HTML Elements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a790a4db2f56cf9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ce8e1daccf6987d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57a0e2d7b4294aae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d6cb6dcd916dc515",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "582374d42d1e6ebe",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "291f08ba62c58738",
+    "type": "split",
+    "children": [
+      {
+        "id": "989da7b238af41fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "192e5160d6a38f37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Year 3 Season 1/CS 311 Discrete Mathematics/Summary/Predicates and Quantifier.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f9892fa30366395",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Year 3 Season 1/CS 311 Discrete Mathematics/Summary/Predicates and Quantifier.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d020004cf1e5441",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "02587f1f65274a64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Year 3 Season 1/CS 311 Discrete Mathematics/Summary/Predicates and Quantifier.md"
+              }
+            }
+          },
+          {
+            "id": "70f5ae331fd24c59",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "88aefac3421cede1",
+  "lastOpenFiles": [
+    "Year 3 Season 1/CS 311 Discrete Mathematics/HTML Elements.md",
+    "Year 3 Season 1/CS 311 Discrete Mathematics/Summary/Predicates and Quantifier.md",
+    "Year 3 Season 1/CS 311 Discrete Mathematics/Summary/Functions, Sequence, Matrices.md",
+    "Year 3 Season 1/CS 311 Discrete Mathematics/Summary/Set Theory.md",
+    "Year 3 Season 1/CS 311 Discrete Mathematics/Summary/Logical Equivalences.md",
+    "Year 3 Season 1/CS 311 Discrete Mathematics/Summary/Propositions.md",
+    "Year 3 Season 1/CS 311 Discrete Mathematics/Summary/Introduction.md",
+    "Year 3 Season 1/CS 315 Software Design/UML.md",
+    "Year 3 Season 1/CS 315 Software Design/Design Pattern.md",
+    "Year 3 Season 1/CS 311 Discrete Mathematics/Week 2.1.md"
+  ]
+}
